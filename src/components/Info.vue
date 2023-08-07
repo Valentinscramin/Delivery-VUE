@@ -12,7 +12,7 @@
     </ul>
     <p>
       para acessar meu portifolio
-      <a v-bind:href="meu_link" target="_blank">clique aqui</a>
+      <a :href="meu_link" target="_blank">clique aqui</a>
     </p>
   </div>
 </template>
