@@ -28,3 +28,15 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+p {
+  color: red;
+  transition: .5s;
+}
+p:hover {
+  transition: .5s;
+  color: blue;
+  cursor: pointer;
+}
+</style>
