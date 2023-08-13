@@ -1,0 +1,108 @@
+{
+  "ingredients": {
+    "bread": [
+      {
+        "id": 1,
+        "name": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "name": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "name": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "name": "Integral"
+      }
+    ],
+    "meat": [
+      {
+        "id": 1,
+        "name": "Maminha"
+      },
+      {
+        "id": 2,
+        "name": "Alcatra"
+      },
+      {
+        "id": 3,
+        "name": "Picanha"
+      },
+      {
+        "id": 4,
+        "name": "Veggie burger"
+      }
+    ],
+    "optionals": [
+      {
+        "id": 1,
+        "name": "Bacon"
+      },
+      {
+        "id": 2,
+        "name": "Cheddar"
+      },
+      {
+        "id": 3,
+        "name": "Salame"
+      },
+      {
+        "id": 4,
+        "name": "Tomate"
+      },
+      {
+        "id": 4,
+        "name": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "name": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "name": "Solicitado"
+    },
+    {
+      "id": 2,
+      "name": "Em produção"
+    },
+    {
+      "id": 3,
+      "name": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "name": "valentin",
+      "bread": "3 Queijos",
+      "meat": "Alcatra",
+      "optionals": [
+        "Bacon",
+        "Tomate",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "name": "Valentin Oliveira Scremin",
+      "bread": "3 Queijos",
+      "meat": "Picanha",
+      "optionals": [
+        "Bacon",
+        "Cheddar",
+        "Tomate",
+        "Cebola roxa",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    }
+  ]
+}
