@@ -2,7 +2,6 @@
   <div>
     <BannerVue />
     <div id="home">
-      <h1>Home</h1>
       <BurguerFormVue />
     </div>
   </div>
