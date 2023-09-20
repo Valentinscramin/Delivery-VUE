@@ -1,0 +1,31 @@
+.loginForm{
+   margin: auto;
+   padding: 10px 0px 10px 0px;
+   min-height: 700px;
+}
+
+.loginForm .nav{
+   gap: 10px;
+}
+
+.loginForm .nav-link{
+   background-color: black;
+   color:orange;
+   transition: 0.5s
+}
+
+.loginForm button{
+   background-color: black;
+   color:orange;
+   transition: 0.5s;
+}
+
+.loginForm button:hover{
+   background-color: black;
+   color:white;
+}
+
+.loginForm .nav-link:hover{
+   background-color: black;
+   color:white;
+}
