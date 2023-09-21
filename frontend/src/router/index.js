@@ -1,7 +1,7 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '../views/home/Home.vue'
 import Pedidos from '../views/pedidos/Pedidos.vue'
-import Login from '../views/auth/Login.vue'
+import Auth from '../views/auth/Auth.vue'
 
 const routes = [
   {
@@ -17,7 +17,7 @@ const routes = [
   {
     path: '/login',
     name: 'login',
-    component: Login
+    component: Auth
   }
   
 ]
